@@ -3,15 +3,15 @@
 ## Sobre
 Refatoração de um site implementando recursos de acessibilidade no HTML, CSS e JS.
 
-## Recursos de Acessibilidade
-- Atributos aria;
-- Alt;
-- Tab-index;
-- Menu de acessibilidade.
+## Recursos de acessibilidade
+- Atributos aria
+- Alt
+- Tab-index
+- Menu de acessibilidade
 
 ## Tecnologias utilizadas
-- Bootstrap;
-- ScroolReavel.js;
-- HTML;
-- CSS;
-- JS.
+- Bootstrap
+- ScrollReveal.js
+- HTML
+- CSS
+- JS
